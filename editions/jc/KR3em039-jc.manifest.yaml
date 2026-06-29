@@ -1,0 +1,154 @@
+canonical_identifier: bkk:krp/KR3em039/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3em039/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 口齒類要
+  identifiers:
+    krp: KR3em039
+  tags:
+    kr-categories: KR3em
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3em039.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3em039_000-jc.yaml, hash: 'sha256:77db2e0255f48bdd779a19557f6c98e96491b9342de3060c2967fa016e0ccea6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3em039_000-jc.markers.yaml, hash: 'sha256:8ef7a6a70c7cbadcf3753d10784d6102a78d943fc53063a5e32b98c6f61bcd21'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3em039_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 1066
+  label: 繭唇一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em039_jc_000-d3.h1s1
+    span:
+    - body
+    - 1066
+    - 1927
+  label: 口瘡二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em039_jc_000-d4.h1s1
+    span:
+    - body
+    - 1927
+    - 3232
+  label: 齒痛三
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em039_jc_000-d5.h1s1
+    span:
+    - body
+    - 3232
+    - 4277
+  label: 舌症四
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em039_jc_000-d6.h1s1
+    span:
+    - body
+    - 4277
+    - 5302
+  label: 喉痹諸症五
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em039_jc_000-d7.h1s1
+    span:
+    - body
+    - 5302
+    - 6608
+  label: 喉痛六
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em039_jc_000-d8.h1s1
+    span:
+    - body
+    - 6608
+    - 6842
+  label: 諸骨稻穀發鯁七
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em039_jc_000-d9.h1s1
+    span:
+    - body
+    - 6842
+    - 6963
+  label: 治諸鯁咒法八
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em039_jc_000-d10.h1s1
+    span:
+    - body
+    - 6963
+    - 7038
+  label: 誤吞水蛭九
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em039_jc_000-d11.h1s1
+    span:
+    - body
+    - 7038
+    - 7134
+  label: 諸蟲入耳十
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em039_jc_000-d12.h1s1
+    span:
+    - body
+    - 7134
+    - 7215
+  label: 蛇入七竅及蟲咬傷十一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em039_jc_000-d13.h1s1
+    span:
+    - body
+    - 7215
+    - 7310
+  label: 男女體氣十二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em039_jc_000-d14.h1s1
+    span:
+    - body
+    - 7310
+    - 11642
+  label: 附方並注
+  type: section
+  level: 1
+hash: sha256:39e820dcbe5205dbce0036d222e1e097aac108d534b05e7c236dc0635e48ac33
